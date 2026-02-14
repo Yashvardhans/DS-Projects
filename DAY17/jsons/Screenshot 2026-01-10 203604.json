@@ -1,0 +1,35 @@
+{
+    "file_path": "/content/drive/MyDrive/Colab Notebooks/day17_pics/Screenshot 2026-01-10 203604.png",
+    "description": {
+        "main_subject": "Finite State Machine Diagram",
+        "detailed_description": "A grayscale diagram illustrates a finite state machine with three states: A, B, and C. State A is designated as the initial state, and C is marked as the accepting state, with transitions between them labeled by binary inputs '0' and '1'. The diagram clearly depicts directed edges, self-loops, and the flow of computation based on these inputs.",
+        "visual_elements": [
+            "State A",
+            "State B",
+            "State C",
+            "Initial State Arrow",
+            "Accepting State (Double Circle)",
+            "Transition Arrows",
+            "Self-loops",
+            "Binary Input Labels"
+        ],
+        "text_content": "A, B, C, 0, 1",
+        "search_keywords": [
+            "finite automaton",
+            "finite state machine",
+            "state diagram",
+            "transition diagram",
+            "automata theory",
+            "computer science",
+            "theory of computation",
+            "DFA",
+            "states",
+            "transitions",
+            "binary input",
+            "formal language",
+            "computational model",
+            "algorithm diagram",
+            "system design"
+        ]
+    }
+}

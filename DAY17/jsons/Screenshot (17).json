@@ -1,0 +1,42 @@
+{
+    "file_path": "/content/drive/MyDrive/Colab Notebooks/day17_pics/Screenshot (17).png",
+    "description": {
+        "main_subject": "Computer screen displaying an online meeting with a digital whiteboard",
+        "detailed_description": "A screenshot captures a virtual meeting interface, prominently featuring a digital whiteboard filled with handwritten mathematical equations and notes. The screen is brightly lit, indicating a focused academic or professional session. The overall mood is one of learning and collaboration in a digital environment.",
+        "visual_elements": [
+            "Computer screen",
+            "Virtual meeting application",
+            "Digital whiteboard",
+            "Mathematical equations",
+            "Handwritten text",
+            "Integrals",
+            "Product notation",
+            "Variables",
+            "Meeting controls",
+            "Participant list",
+            "User avatars",
+            "System taskbar",
+            "Recording notification",
+            "OneNote interface",
+            "Microsoft Teams interface"
+        ],
+        "text_content": "Meeting in \"General\"\n01:06:20\nPop out\nPeople\nChat\nReactions\nMore\nCamera\nMic\nShare\nLeave\nRecording has started.\nBy attending this meeting, you consent to be recorded. Privacy policy\nOneNote\nHome\nInsert\nDraw\nView\nHelp\nClass Notebook\nSaved offline (error)\nShapes\nInk to Text\nMaths\nlet (X\u2081, X\u2082, ..., Xn) a Random Sample.\nUnder H\u2080\nUnder H\u2081\nIn 2D, volume is computed by double integration\nfor n-D, vol. is calculated by n-integral\n\u03b1 = \u222b\u222b...\u222b \u03a0 f(x\u1d62,\u03bc\u2080) . dx\u2081 . dx\u2082 ... dxn\nx\u2081, x\u2082, xn\nW\n\u03b2 = \u222b\u222b...\u222b \u03a0 f(x\u1d62,\u03bc\u2081) . dx\u2081 . dx\u2082 ... dxn\nx\u2081, x\u2082, xn\nW\n\u03b3 = \u222b\u222b...\u222b \u03a0 f(x\u1d62,\u03bc\u2081) . dx\u2081 . dx\u2082 ...\n100209\n20BAI10197\n20BAI10299\n20BAI10334\n20BAI10311\n20BAI10307\n20BAI10003\n20BAI10176\n20BAI10364\n+62\n78\u00b0F\nHaze\nSearch\nENG\nUS\n5:29 PM\n11/17/2022",
+        "search_keywords": [
+            "online meeting",
+            "virtual classroom",
+            "digital whiteboard",
+            "mathematics",
+            "statistics",
+            "equations",
+            "integrals",
+            "hypothesis testing",
+            "OneNote",
+            "Microsoft Teams",
+            "e-learning",
+            "remote education",
+            "screen capture",
+            "academic",
+            "collaboration"
+        ]
+    }
+}

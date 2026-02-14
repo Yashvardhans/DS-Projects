@@ -1,0 +1,41 @@
+{
+    "file_path": "/content/drive/MyDrive/Colab Notebooks/day17_pics/Screenshot (12).png",
+    "description": {
+        "main_subject": "Microsoft Teams meeting with a shared whiteboard on Convex Optimization",
+        "detailed_description": "A screenshot of a Microsoft Teams meeting displays a shared whiteboard filled with handwritten notes and diagrams related to 'Convex Optimization.' Concepts like 'Convex Set' and 'Affine Combination' are explained with mathematical formulas and visual representations, marked with red checkmarks and crosses. The right panel shows a list of meeting participants, indicating an active educational or collaborative session.",
+        "visual_elements": [
+            "Microsoft Teams interface",
+            "Digital whiteboard",
+            "Handwritten notes",
+            "Mathematical equations",
+            "Diagrams",
+            "Red checkmarks",
+            "Red crosses",
+            "Green text",
+            "Black text",
+            "Participant list",
+            "User avatars",
+            "Windows taskbar",
+            "Clock",
+            "Weather widget"
+        ],
+        "text_content": "Convex Optimization-CSA3002-CR002-A21-07.11.2022-01.15PM-02.45PM 01:13:05 Request control Pop out People Chat Reactions More Camera Mic Share Leave Stylus Color Line Eraser Backgrounds Undo Redo Pages Previous Next Board Web Documents Show Desktop OpenBoard Convex Set Convex combination a point in space & line. Affine Set a line joining two points. Affine Combination X = {x1, x2} \u03b1x1 + (1-\u03b1)x2 \u03b1 \u2208 R \u03b1=1 \u03b1=0.5 \u03b1=0 Affine set : \u2200 x1, x2 \u2208 S, x = \u03b1x1 + (1-\u03b1)x2 \u2208 S H\u03b1 \u2208 C 100370 Type here to search 87\u00b0F Haze 32\u00b0C Haze ENG IN 2:24 PM 11/7/2022 100370 20BAI10319 2 20BAI10061 20BAI10174 2 20BAI10116 20BAI10217 20BAI10350 20BAI10264 2 +33 20BAI10244 2",
+        "search_keywords": [
+            "Microsoft Teams",
+            "online meeting",
+            "whiteboard",
+            "convex optimization",
+            "affine set",
+            "mathematics",
+            "e-learning",
+            "virtual classroom",
+            "screen capture",
+            "digital notes",
+            "educational content",
+            "remote collaboration",
+            "lecture",
+            "geometry",
+            "optimization theory"
+        ]
+    }
+}
